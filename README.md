@@ -15,5 +15,3 @@ This research project represents my initial foray into programming with Python a
 Additionally, the project delves into an in-depth analysis of three distinct trading strategies, assessing their performance over the period from 2017 to 2021. This critical evaluation seeks to derive profound insights into the effectiveness and impact of each strategy on investment decision-making.
 
 Furthermore, a mini correlations analysis is conducted to explore the potential predictive capability of past price patterns on the present-day price movements. This rigorous examination aims to unveil any discernible relationships between historical data and current market dynamics.
-
-Through this academic endeavor, the project endeavors to showcase Python's utility for financial data analysis, while concurrently contributing valuable findings on market trends, trading strategies, and the prospect of predictive patterns within the Dow Jones data. The research holds significance in the domain of financial analytics, laying the groundwork for future investigations and providing potential implications for investment practices.
