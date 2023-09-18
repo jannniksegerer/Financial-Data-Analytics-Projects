@@ -9,6 +9,24 @@ This research project aims to analyze a portfolio of selected companies by calcu
 
 Furthermore, the identified high-risk and low-risk companies will be clustered based on their Fama-French factor exposure patterns. By analyzing the dependencies between the obtained clusters and the risk categorization, this study seeks to gain a deeper understanding of how the companies' exposures to specific factors relate to their risk levels. 
 
+## Project 3 - clustering analysis
+
+n this academic study, we conduct a comprehensive clustering analysis on a dataset comprising 1,000 observations from diverse companies. Our goal is to utilize the k-means clustering algorithm with key variables, including 'beta,' 'logMktCap,' 'peRatioTTM,' 'debtRatioTTM,' and 'priceToBookRatioTTM,' to unveil underlying patterns.
+
+The assignment encompasses five key tasks:
+
+We aim to determine the optimal number of clusters using the elbow method with the distortion metric, guiding our cluster selection.
+
+Additionally, we consider the silhouette score to explore the possibility of choosing an alternative number of clusters, providing a different perspective on clustering.
+
+Following cluster selection, we allocate companies to clusters and critically analyze the distribution within each cluster to understand the data's structural organization better.
+
+We calculate and interpret average values for key variables within each cluster, aiding in the identification of distinctive characteristics.
+
+Lastly, we delve into financial analysis by determining and interpreting the average 'enterpriseValue' for each cluster, uncovering financial variations among the clustered companies.
+
+Through these tasks, we aim to enhance academic understanding of clustering methodologies and their applications in data analysis.
+
 ## DowJones - Project: 
 This research project represents my initial foray into programming with Python and focuses on the analysis of Dow Jones data. The primary objectives of this study encompass the provision of general market information and real-time news updates. To enhance data visualization, price plots accompanied by trendlines are employed to illuminate historical price trends effectively.
 
